@@ -21,5 +21,5 @@
 
 ---
 
-![Code Banner](https://readme-typing-svg.herokuapp.com/?lines=Shivani+Chauhan+-+Frontend+Engineer;React+%7C+Next+%7C+Node+%7C+MongoDB&center=true&width=500&height=45)
+![Code Banner](https://readme-typing-svg.herokuapp.com/?lines=Shivani+Chauhan+-+Mern+Stack+Developer;React+%7C+Next+%7C+Node+%7C+MongoDB&center=true&width=500&height=45)
 
