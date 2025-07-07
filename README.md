@@ -1,4 +1,3 @@
-[![Shivani chauhan header]([https://raw.githubusercontent.com/xdshivani/xdshivani/master/cover.png](https://images.app.goo.gl/qnTSToj1NwUEPSv98))]
 ### Hi there 👋
 <p align="center">
 
